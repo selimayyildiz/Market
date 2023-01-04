@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ayyld
+ *
+ */
+module BimMarket {
+}
